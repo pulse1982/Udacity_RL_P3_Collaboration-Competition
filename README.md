@@ -37,6 +37,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
+3. For instructions to set up Python Environment, please follow the link in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
 ### Instructions
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
